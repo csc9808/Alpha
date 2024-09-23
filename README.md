@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Alpha
-=======
-## Next.js App Router Course - Starter
+Financing homepage project. 
+In hopes to link SAP in near future. (Still in Progress)
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+https://lukecho.vercel.app/dashboard
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
->>>>>>> master
